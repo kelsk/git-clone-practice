@@ -1,1 +1,1 @@
-puts "hello, NERD"
+puts "hello, fellow nerd"
